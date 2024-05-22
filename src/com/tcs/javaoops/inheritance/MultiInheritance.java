@@ -1,4 +1,5 @@
 package com.tcs.javaoops.inheritance;
+
 class Source {
 	public void ramMemory() {
 		System.out.println("8gb-ram 64-internal");
@@ -15,5 +16,7 @@ class Desktop extends Source{
 	}
 }
 public class MultiInheritance {
-
+	public static void main(String[] args) {
+		
+	}
 }
